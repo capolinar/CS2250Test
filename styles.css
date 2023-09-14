@@ -1,0 +1,27 @@
+body{
+	color: green;
+	background: url("download.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center
+}
+
+p,
+h3,
+li{
+	color:aqua;
+	font-size: 60px;
+
+}
+
+body{
+	border: 2px solid red;
+	margin: 50px;
+
+}
+
+body div{
+	border: 2px solid red;
+	margin: 50px;
+
+}
